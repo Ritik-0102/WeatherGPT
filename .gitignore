@@ -14,11 +14,13 @@
 /out/
 /build
 
-# Zip archives & temporary binaries
+# Zip archives & Android signing keys
 *.zip
 *.tar.gz
 *.apk
 *.aab
+*.keystore
+*.jks
 
 # IDE & OS files
 .DS_Store
