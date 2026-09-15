@@ -1,0 +1,46 @@
+{
+  "name": "weathergpt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "twa:init": "npx @bubblewrap/cli init --manifest=http://localhost:3000/manifest.json",
+    "twa:build": "npx @bubblewrap/cli build"
+  },
+  "dependencies": {
+    "@base-ui/react": "^1.8.0",
+    "@hookform/resolvers": "^5.9.1",
+    "axios": "^1.20.0",
+    "class-variance-authority": "^0.7.1",
+    "cn": "^0.2.6",
+    "framer-motion": "^13.2.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^1.42.0",
+    "next": "14.2.35",
+    "next-intl": "^4.14.2",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.87.0",
+    "react-leaflet": "^4.2.1",
+    "recharts": "^3.10.1",
+    "shadcn": "^4.21.0",
+    "tailwindcss-animate": "^1.0.7",
+    "tw-animate-css": "^1.4.0",
+    "zod": "^4.5.4",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.22",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.35",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

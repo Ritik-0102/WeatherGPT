@@ -1,0 +1,21 @@
+{
+  "settings": "Settings",
+  "preferences": "User Preferences & Customization",
+  "language": "Language",
+  "selectLanguage": "Select primary interface language",
+  "units": "Temperature & Wind Units",
+  "selectUnits": "Choose preferred unit system",
+  "metric": "Metric (°C, km/h)",
+  "imperial": "Imperial (°F, mph)",
+  "notifications": "Weather Alerts & Push Notifications",
+  "enableAlerts": "Receive severe weather alerts and advisories",
+  "voice": "Voice Assistant Settings",
+  "autoSpeak": "Auto-speak AI responses",
+  "location": "Location Services",
+  "autoLocation": "Use GPS browser location automatically",
+  "theme": "Appearance Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System Default",
+  "save": "Save Preferences"
+}
